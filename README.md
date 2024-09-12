@@ -1,4 +1,4 @@
-![image](https://github.com/maxslvt/maxslvt/blob/main/luffy-straw-hat-one-piece.jpg?raw=true)
+<!--![image](https://github.com/maxslvt/maxslvt/blob/main/luffy-straw-hat-one-piece.jpg?raw=true)
 
 <!--
 **maxslvt/maxslvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
